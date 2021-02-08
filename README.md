@@ -1,4 +1,3 @@
 # practicegitsss
 
-zzz
-practicegit
+zzz practicegit
