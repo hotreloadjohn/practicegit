@@ -6,4 +6,4 @@ zzz practicegitzzzzz
 
 # Johnngcs
 
-#Happy chinese new year cow 2021
+#Happy Chinese New Year Cow 2021
