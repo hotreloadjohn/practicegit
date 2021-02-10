@@ -1,9 +1,5 @@
 # practicegitsss
 
-<<<<<<< HEAD
 ## Hellozzz
-=======
-## Helloxxx
->>>>>>> main
 
-zzz practicegit
+zzz practicegitzzzzz
