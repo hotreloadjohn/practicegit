@@ -11,4 +11,8 @@ zzz practicegitzzzzzzz
 ## item 1
 fadfaasdasd
 
+This is item 1. assigned to John
+
 ## item 2
+
+This is item 1. assigned to David
