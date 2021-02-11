@@ -2,7 +2,7 @@
 
 ## Hellozzz
 
-zzz practicegitzzzzz
+zzz practicegit
 
 # John ng cs
 
